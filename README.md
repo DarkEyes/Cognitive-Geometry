@@ -120,16 +120,22 @@ The single code cell prints the summary table, the statistical tests, and the pe
 
 If you use this work, please cite the paper:
 
+Amornbunchornvej, C. (2026). “Interpretation as Linear Transformation: A Cognitive-Geometric
+Model of Concepts and Meaning”. In: Minds and Machines 36.3, p. 36. 
+doi: 10.1007/s11023-026-09789-6. arXiv: 2512.09831. [link](https://doi.org/10.1007/s11023-026-09789-6)
+
 ```bibtex
-@misc{amornbunchornvej2025interpretation,
-  title         = {Interpretation as Linear Transformation: A Cognitive-Geometric Model of Concepts and Meaning},
+@article{amornbunchornvej2026interpretation,
   author        = {Amornbunchornvej, Chainarong},
-  year          = {2025},
+  title         = {Interpretation as Linear Transformation: A Cognitive-Geometric Model of Concepts and Meaning},
+  journal       = {Minds and Machines},
+  volume        = {36},
+  number        = {3},
+  pages          = {36},
+  year          = {2026},
+  doi           = {10.1007/s11023-026-09789-6},
   eprint        = {2512.09831},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.AI},
-  doi           = {10.48550/arXiv.2512.09831},
-  url           = {https://arxiv.org/abs/2512.09831}
+  archivePrefix = {arXiv}
 }
 ```
 
